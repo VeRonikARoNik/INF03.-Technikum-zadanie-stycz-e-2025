@@ -3,3 +3,4 @@ Nazwa kwalifikacji: Tworzenie i administrowanie stronami i aplikacjami interneto
 Symbol kwalifikacji: INF.03
 Numer zadania: 05
 Wersja arkusza: SG
+e-mail na wykonane zadania:wykonanezadania100@gmail.com
