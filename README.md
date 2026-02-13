@@ -4,7 +4,7 @@ Symbol kwalifikacji: INF.03
 Numer zadania: 05
 Wersja arkusza: SG
 e-mail na wykonane zadania:wykonanezadania100@gmail.com
-
+```
 -- Zapytanie 1: tylko plik, nr_klienta, liczba_odbitek dla matowych, gdzie liczba_odbitek > 100
 SELECT plik, nr_klienta, liczba_odbitek
 FROM zamowienia
@@ -30,3 +30,4 @@ WHERE rodzaj = 'błyszczący';
 CREATE USER 'Anna'@'localhost' IDENTIFIED BY '@NNa';
 GRANT ALL PRIVILEGES ON fotografia.* TO 'Anna'@'localhost';
 FLUSH PRIVILEGES;
+```
